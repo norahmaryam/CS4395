@@ -9,3 +9,6 @@ https://github.com/norahmaryam/CS4395/blob/main/nmk180004.ipynb
 Assignment 2: 
 https://github.com/norahmaryam/CS4395/blob/main/nmk180004asmnt2.pdf
 
+Assignment 3: 
+
+
