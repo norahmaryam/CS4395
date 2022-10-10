@@ -12,3 +12,6 @@ https://github.com/norahmaryam/CS4395/blob/main/nmk180004asmnt2.pdf
 Assignment 3: 
 https://github.com/norahmaryam/CS4395/blob/main/guessinggame.ipynb
 
+Assignment 4: 
+
+Assignment 5: 
